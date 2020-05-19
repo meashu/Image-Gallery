@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Image Gallery where a user can search any images by typing in the search bar.This app uses unsplash api in order to fetch the images.
 
 ## Available Scripts
 
